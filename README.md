@@ -6,5 +6,5 @@
 * 寻找右侧边界的二分查找: <br> [278. 第一个错误的版本](https://github.com/Lvma-0323/Leetcode/blob/main/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md)
 
 ### 双指针
-* 左右指针：<br> [977. 有序数组的平方](https://github.com/Lvma-0323/Leetcode/blob/main/977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md)
+* 左右指针：<br> [977. 有序数组的平方](https://github.com/Lvma-0323/Leetcode/blob/main/977.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md) <br> [189. 旋转数组](https://github.com/Lvma-0323/Leetcode/blob/main/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md)
 
