@@ -29,6 +29,7 @@
 * 广度优先搜索：我们每一次搜索到一个点的时候，如果这个点不符合条件，那么搜索同一层中符合条件的点，再把这一层中符合要求的点一一拓展，按照上述形式搜索下去。它需要借助一个**队列queue**来实现。
 <br> [733. 图像渲染](https://github.com/Lvma-0323/Leetcode/blob/main/733.%20%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.md)
 <br> [542. 01 矩阵](https://github.com/Lvma-0323/Leetcode/blob/main/542.%2001%20%E7%9F%A9%E9%98%B5.md)
+<br> [994. 腐烂的橘子](https://github.com/Lvma-0323/Leetcode/blob/main/994.%20%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md)
 * 深度优先搜索：我们每一次搜索到一个点的时候，如果这个点不符合条件，那么就return，返回到上一层（就是常说的回朔），如果这个点符合条件，就一直搜索下去，直到没有点可以搜索。它是一个**递归**的过程，通常借助**栈stack**来实现。
 <br> [695. 岛屿的最大面积](https://github.com/Lvma-0323/Leetcode/blob/main/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 <br> [617. 合并二叉树](https://github.com/Lvma-0323/Leetcode/blob/main/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
