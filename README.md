@@ -14,11 +14,11 @@
 * while (left < right)，这里使用 < ,因为left == right在区间[left, right)是没有意义的
 * if (nums[middle] > target) right 更新为 middle，因为当前nums[middle]不等于target，去左区间继续寻找，而寻找区间是左闭右开区间，所以right更新为middle，即：下一个查询区间不会去比较nums[middle]
 
-##### 简单二分查找：
+##### easy
 [704. 二分查找](https://github.com/Lvma-0323/Leetcode/blob/main/704.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md) 
-<br> [35. 搜索插入位置](https://github.com/Lvma-0323/Leetcode/blob/main/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md)
-##### 寻找右侧边界的二分查找: 
-[278. 第一个错误的版本](https://github.com/Lvma-0323/Leetcode/blob/main/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md)
+<br>[35. 搜索插入位置](https://github.com/Lvma-0323/Leetcode/blob/main/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md)
+<br>[278. 第一个错误的版本](https://github.com/Lvma-0323/Leetcode/blob/main/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md)
+<br>[69. Sqrt(x)](https://github.com/Lvma-0323/Leetcode/blob/main/69.%20Sqrt(x).md)
 
 ### 双指针
 指的是在遍历对象的过程中，不是普通的使用单个指针进行访问，而是使用两个**相同方向（快慢指针）** 或者**相反方向（对撞指针）** 的指针进行扫描，从而达到相应的目的。
