@@ -24,6 +24,7 @@
 <br>[153. Find Minimum in Rotated Sorted Array](https://github.com/Lvma-0323/Leetcode/blob/main/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 <br>[33. Search in Rotated Sorted Array](https://github.com/Lvma-0323/Leetcode/blob/main/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 <br>[74. Search a 2D Matrix](https://github.com/Lvma-0323/Leetcode/blob/main/74.%20Search%20a%202D%20Matrix.md)
+<br>[162. Find Peak Element](https://github.com/Lvma-0323/Leetcode/blob/main/162.%20Find%20Peak%20Element.md)
 ##### Hard
 [154. Find Minimum in Rotated Sorted Array II](https://github.com/Lvma-0323/Leetcode/blob/main/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)
 
