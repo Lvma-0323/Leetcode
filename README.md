@@ -43,6 +43,7 @@
 ##### 滑动窗口：主要解决一些查找满足一定条件的**连续区间**的性质（长度等）的问题。
 [3. 无重复字符的最长子串](https://github.com/Lvma-0323/Leetcode/blob/main/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)
 <br> [567. 字符串的排列](https://github.com/Lvma-0323/Leetcode/blob/main/567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
+<br> [82. Remove Duplicates from Sorted List II](https://github.com/Lvma-0323/Leetcode/blob/main/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
 
 ### 广度优先搜索/深度优先搜索 (BFS/DFS)
 
