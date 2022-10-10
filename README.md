@@ -50,6 +50,7 @@
 <br> [567. 字符串的排列](https://github.com/Lvma-0323/Leetcode/blob/main/567.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
 <br> [15. 3Sum](https://github.com/Lvma-0323/Leetcode/blob/main/15.%203Sum.md)
 <br> [82. Remove Duplicates from Sorted List II](https://github.com/Lvma-0323/Leetcode/blob/main/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+<br> [986. Interval List Intersections](https://github.com/Lvma-0323/Leetcode/blob/main/986.%20Interval%20List%20Intersections.md)
 
 ### 广度优先搜索/深度优先搜索 (BFS/DFS)
 
