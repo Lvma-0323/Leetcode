@@ -67,23 +67,22 @@
 * Mark that vertex as visited.
 * Insert all the unvisited neighbours of the vertex into the queue.
 
-##### Easy
-[733. 图像渲染](https://github.com/Lvma-0323/Leetcode/blob/main/733.%20%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.md)
-##### Medium
-[542. 01 矩阵](https://github.com/Lvma-0323/Leetcode/blob/main/542.%2001%20%E7%9F%A9%E9%98%B5.md)
-<br> [994. 腐烂的橘子](https://github.com/Lvma-0323/Leetcode/blob/main/994.%20%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md)
-
 <br> 深度优先搜索：我们每一次搜索到一个点的时候，如果这个点不符合条件，那么就return，返回到上一层（就是常说的回朔），如果这个点符合条件，就一直搜索下去，直到没有点可以搜索。它是一个**递归**的过程，通常借助**栈stack**来实现。
 <br><br> Follow the below steps to solve the problem:
 * Create a recursive function that takes the index of the node and a visited array.
 * Mark the current node as visited and print the node.
 * Traverse all the adjacent and unmarked nodes and call the recursive function with the index of the adjacent node.
+
 ##### Easy
 [617. 合并二叉树](https://github.com/Lvma-0323/Leetcode/blob/main/617.%20%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+<br> [733. 图像渲染](https://github.com/Lvma-0323/Leetcode/blob/main/733.%20%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.md)
 ##### Medium
 [695. 岛屿的最大面积](https://github.com/Lvma-0323/Leetcode/blob/main/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.md)
 <br> [116. 填充每个节点的下一个右侧节点指针](https://github.com/Lvma-0323/Leetcode/blob/main/116.%20%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md)
 <br> [200. Number of Islands](https://github.com/Lvma-0323/Leetcode/blob/main/200.%20Number%20of%20Islands.md)
+[542. 01 矩阵](https://github.com/Lvma-0323/Leetcode/blob/main/542.%2001%20%E7%9F%A9%E9%98%B5.md)
+<br> [994. 腐烂的橘子](https://github.com/Lvma-0323/Leetcode/blob/main/994.%20%E8%85%90%E7%83%82%E7%9A%84%E6%A9%98%E5%AD%90.md)
+
 
 ### 递归/回溯
 ##### 递归：基本思想就是把规模大的问题转化为规模小的相似的子问题来解决。 三要素：明确递归终止条件；给出递归终止时的处理办法；提取重复的逻辑，缩小问题规模。
